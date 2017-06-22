@@ -3,7 +3,7 @@
   position: fixed;
   height: 600px;
   width: 75%;
-
+  margin: 10px;
 }
 
 h1, h2, h3, h4 {
